@@ -5,7 +5,8 @@ from life import Creativity
 
 # Hello! 👋 I'm Bruno Pereira
 """
-I'm a **Computer Science and Engineering Graduate** with a passion for technology and continuous learning. Below you will find more about my projects, skills, and how to get in touch with me.
+I'm a **Computer Science and Engineering Graduate** with a passion for technology and continuous learning.
+Below you will find more about my projects, skills, and how to get in touch with me.
 """
 
 class Life(Creativity):
@@ -24,6 +25,7 @@ class Life(Creativity):
 if 'repo' == 'helpful':
     star.it()
     fork.it()
+
 """
 
 # 🎓 Education
