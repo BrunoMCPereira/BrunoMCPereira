@@ -52,6 +52,9 @@ Here are some of my public repositories:
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - [**TicTacToe**](https://github.com/BrunoMCPereira/TicTacToe) - Classic Tic Tac Toe Game  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- [**SAD**](https://github.com/BrunoMCPereira/SAD) - Pressão Habitacional Project  
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ## 📫 How to Reach Me
 - **Email:** [brunomcpereira@gmail.com](mailto:brunomcpereira@gmail.com)
