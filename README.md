@@ -1,5 +1,3 @@
-from life import Creativity
-
 # Welcome to My GitHub Profile
 
 ## Hello! 👋 I'm Bruno Pereira
@@ -7,29 +5,29 @@ from life import Creativity
 I'm a **Computer Science and Engineering Graduate** with a passion for technology and continuous learning.
 Below you will find more about my projects, skills, and how to get in touch with me.
 
-
-    class Life(Creativity):
-        def init_life(self):
-            self.current_job_title = "Recent Graduate"
-            self.open_for_opportunity = True
+    from life import Creativity
     
-        def current_projects(self):
-            self.currently_learning = "Machine Learning 📚"
-            self.currently_working_on = "Open Source Projects 🌐"
-            self.excited_for = "Software Development and AI 🤖"
-    
-        def contact_me(self):
-            self.email = "brunomcpereira@gmail.com"
-    
-    if 'repo' == 'helpful':
-        star.it()
-        fork.it()
+        class Life(Creativity):
+            def init_life(self):
+                self.current_job_title = "Recent Graduate"
+                self.open_for_opportunity = True
+        
+            def current_projects(self):
+                self.currently_learning = "Machine Learning 📚"
+                self.currently_working_on = "Open Source Projects 🌐"
+                self.excited_for = "Software Development and AI 🤖"
+        
+            def contact_me(self):
+                self.email = "brunomcpereira@gmail.com"
+        
+        if 'repo' == 'helpful':
+            star.it()
+            fork.it()
 
 
 ## 🎓 Education
 - **Computer Science and Engineering**
   - Universidade Autónoma de Lisboa (Oct 2021 – Sep 2024)
-  - Finalist in Computer Engineering
 
 ## 💼 Professional Experience
 - **Business Manager**
