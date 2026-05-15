@@ -44,7 +44,7 @@ Below you will find more about my projects, skills, and how to get in touch with
 ## 📂 Projects
 Here are some of my public repositories:
 
-- [**lei_leet_Lab_Prj**](https://github.com/BrunoMCPereira/lei_leet_Lab_Prj) - Repositório da Cadeira de Laboratório de Projeto  
+- [**Laboratório de Projecto**](https://github.com/BrunoMCPereira/lei_leet_Lab_Prj) - Repositório da Cadeira de Laboratório de Projeto  
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - [**Notlar**](https://github.com/BrunoMCPereira/Notlar) - Projeto_SDP  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
